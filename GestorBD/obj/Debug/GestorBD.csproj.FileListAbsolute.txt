@@ -1,0 +1,11 @@
+C:\DAIPLAU\Programas\GestorBD\bin\Debug\GestorBD.dll
+C:\DAIPLAU\Programas\GestorBD\bin\Debug\GestorBD.pdb
+C:\DAIPLAU\Programas\GestorBD\obj\Debug\GestorBD.csprojAssemblyReference.cache
+C:\DAIPLAU\Programas\GestorBD\obj\Debug\GestorBD.csproj.CoreCompileInputs.cache
+C:\DAIPLAU\Programas\GestorBD\obj\Debug\GestorBD.dll
+C:\DAIPLAU\Programas\GestorBD\obj\Debug\GestorBD.pdb
+C:\Users\RPLAUCHUR\Documents\Visual\Programas\GestorBD\bin\Debug\GestorBD.dll
+C:\Users\RPLAUCHUR\Documents\Visual\Programas\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\RPLAUCHUR\Documents\Visual\Programas\GestorBD\obj\Debug\GestorBD.csprojAssemblyReference.cache
+C:\Users\RPLAUCHUR\Documents\Visual\Programas\GestorBD\obj\Debug\GestorBD.dll
+C:\Users\RPLAUCHUR\Documents\Visual\Programas\GestorBD\obj\Debug\GestorBD.pdb
